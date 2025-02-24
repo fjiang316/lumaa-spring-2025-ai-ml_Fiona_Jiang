@@ -42,7 +42,7 @@ This repo build a **content-based recommendation system** that, given a **short 
 
 ## Deliverables
 1. **Short Video Demo**  
-   - Here's a link to a short demo explaining how an example prompt went through the system. [video link]()
+   - Here's a link to a short demo explaining how an example prompt went through the system. [video link](https://youtu.be/IZDTln1CR-k)
    - Demonstrate:
      - How you run the recommendation code.  
      - A sample query and the results.
